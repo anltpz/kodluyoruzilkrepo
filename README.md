@@ -6,8 +6,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-`` git clone örnek
-``
+`
+sadsad
+asdsa
+`
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
